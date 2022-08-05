@@ -1,4 +1,4 @@
- random import randrange
+from random import randrange
 
 # TODO if using Github diff deployment on HeroKu uncomment the next line
 import os
